@@ -129,7 +129,7 @@
             // 
             this.AutoScaleDimensions = new SizeF(8F, 20F);
             this.AutoScaleMode = AutoScaleMode.Font;
-            this.BackColor = SystemColors.ControlDark;
+            this.BackColor = SystemColors.ControlLight;
             this.ClientSize = new Size(876, 494);
             this.Controls.Add(this.btnRock);
             this.Controls.Add(this.btnPaper);
